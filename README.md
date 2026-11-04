@@ -4,7 +4,7 @@ A **black & purple neon** theme for [Omarchy](https://omarchy.org/). Deep violet
 
 ## Preview
 
-<!-- TODO: add preview.png -->
+![Amaranthine Preview](preview.png)
 
 ## Installation
 
