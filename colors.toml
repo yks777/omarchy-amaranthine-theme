@@ -1,0 +1,39 @@
+mode = "dark"
+
+# --- Cores Principais ---
+accent = "#C724FF"        # Um magenta neon vibrante (puxado do rosto na imagem)
+selection = "#3D0066"     # Roxo profundo para seleção de texto
+muted = "#6E4990"         # Roxo acinzentado para textos secundários
+
+# --- Fundos ---
+background = "#08010D"    # Quase preto, mas com um leve tom de violeta
+dark_background = "#12001A"
+darker_background = "#000000"
+lighter_background = "#1F0033"
+
+# --- Textos (Foreground) ---
+foreground = "#E8D5FF"    # Lavanda muito claro (brilha bem no fundo escuro)
+dark_foreground = "#8A5E9E"
+light_foreground = "#F4EBFF" # Quase branco com toque de roxo
+bright_foreground = "#FFFFFF"
+
+# --- Cores ANSI (Para syntax highlighting) ---
+# Mantive tudo na paleta roxa/magenta, mas ajustei a temperatura para diferenciar
+red = "#FF2A9D"           # Rosa choque (ótimo para erros e alertas)
+yellow = "#E2B4FF"        # Lavanda quente (para avisos)
+orange = "#FF5CFF"        # Magenta quente
+green = "#8F44FF"         # Violeta mais frio (para strings)
+cyan = "#7C5CFF"          # Azul-violeta (para variáveis)
+blue = "#5A27FF"          # Índigo profundo
+magenta = "#D000FF"       # O roxo neon clássico da imagem
+brown = "#4A1C66"         # Roxo bem escuro e apagado
+
+# --- Cores ANSI Brilhantes ---
+bright_red = "#FF66C4"
+bright_yellow = "#F2D9FF"
+bright_green = "#B37CFF"
+bright_cyan = "#A38CFF"
+bright_blue = "#8A63FF"
+bright_magenta = "#E866FF"
+bright_orange = "#FF8AFF"
+bright_brown = "#6E2B99"
